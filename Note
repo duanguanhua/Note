@@ -7,7 +7,8 @@
 6   M-x ecb-activate即可打开ecb
 7   Alt - x g++ -o 文件名 文件名.cpp Alt - x ,输入 eshell emacs运行c/c++
 8    /etc/default/grub 修改启动时间
-9   先将源文件编译成目标文件：gcc - c  hello.c， 生成hello.o文件，再将目标文件编译成可执行文件：gcc -o  hello  hello.o
+9   先将源文件编译成目标文件：gcc - c  hello.c， 生成hello.o文件，
+    再将目标文件编译成可执行文件：gcc -o  hello  hello.o
 10   vim可以以16进制查看文本信息：
      十六进制显示
      :%!xxd
