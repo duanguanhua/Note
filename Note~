@@ -23,6 +23,3 @@
      tar –xZvf file.tar.Z   //解压tar.Z
 15   sudo ntfsfix /dev/sda6 Date 盘挂载失败
 16   gdb 调试  gcc -g test.c -o debug
-17   DuanGuanhua1015
-	 管理终端连接密码
- 	 577909
