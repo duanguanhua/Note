@@ -1,6 +1,6 @@
 1   byzanz-record -d 1 -x 0 -y 50 -w 700 -h 435 1.gif
     录制 Gif 动画
-2    \var\cache\apt\archives apt-get下载目录
+2    \var\cache\apt\archives   apt-get下载目录
 3   C - \ emacs输入法选择
 4   astyle -A7 *.c  astyle *.c 代码格式化
 5   /var/cache/apt/archives  .deb文件
@@ -21,3 +21,8 @@
      tar -xzvf file.tar.gz //解压tar.gz
      tar -xjvf file.tar.bz2   //解压 tar.bz2 
      tar –xZvf file.tar.Z   //解压tar.Z
+15   sudo ntfsfix /dev/sda6 Date 盘挂载失败
+16   gdb 调试  gcc -g test.c -o debug
+17   DuanGuanhua1015
+	 管理终端连接密码
+ 	 577909
