@@ -1,3 +1,5 @@
+new the change
+
 Ubuntu中打开终端的快捷键是Ctrl+Alt+T。其他的一些常用的快捷键如下：
 
 快捷键	功能
