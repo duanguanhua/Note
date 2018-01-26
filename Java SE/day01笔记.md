@@ -34,7 +34,6 @@
     * c: dos控制台运行记事本程序
         * D:\>C:\windows\notepad.exe
         * 还可以省略“.exe”后缀，例如：D:\>C:\windows\notepad
-
           ​
 ### 03java语言开发环境JDK
 * A: java语言开发环境JDK
@@ -134,7 +133,6 @@
 ### 10notepad软件安装
 * A: 安装
     * 双击.exe文件安装 即可
-
 
 ### 11注释
 * A: 注释
