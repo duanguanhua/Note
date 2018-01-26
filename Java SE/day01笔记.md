@@ -86,7 +86,7 @@
 * B: 实际开发步骤
     * a: 定义类
     * b: 写main方法
-      * c: 写输出语句(注意：下面的代码是原代码，是不能运行的)
+    * c: 写输出语句(注意：下面的代码是原代码，是不能运行的)
     ```java
     public class HelloWorld {
         public static void main(String[] args) {
